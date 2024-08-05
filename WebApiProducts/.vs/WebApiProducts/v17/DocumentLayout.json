@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|c:\\users\\46561309820\\desktop\\semestre_4\\webapiproducts\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|c:\\users\\46561309820\\desktop\\semestre_4\\webapiproducts\\repositorie\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|solutionrelative:repositorie\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|c:\\users\\46561309820\\desktop\\semestre_4\\webapiproducts\\contexts\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|solutionrelative:contexts\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|c:\\users\\46561309820\\desktop\\semestre_4\\webapiproducts\\interface\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|solutionrelative:interface\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|c:\\users\\46561309820\\desktop\\semestre_4\\webapiproducts\\domains\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0D44C6-19A0-4597-913E-52035E8858FC}|WebApiProducts.csproj|solutionrelative:domains\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:11:54.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Repositorie\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "Repositorie\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Repositorie\\ProductsRepository.cs",
+              "RelativeToolTip": "Repositorie\\ProductsRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:21:41.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Interface\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IProductsRepository.cs",
+              "ToolTip": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Interface\\IProductsRepository.cs",
+              "RelativeToolTip": "Interface\\IProductsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:58:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Domains\\Products.cs",
+              "RelativeDocumentMoniker": "Domains\\Products.cs",
+              "ToolTip": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Domains\\Products.cs",
+              "RelativeToolTip": "Domains\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:51:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Contexts\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\WebApiProducts\\Contexts\\ProductContext.cs",
+              "RelativeToolTip": "Contexts\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:25:43.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

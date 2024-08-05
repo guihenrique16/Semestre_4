@@ -1,0 +1,15 @@
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\bin\Debug\net8.0\LojaGamer.exe
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\bin\Debug\net8.0\LojaGamer.deps.json
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\bin\Debug\net8.0\LojaGamer.runtimeconfig.json
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\bin\Debug\net8.0\LojaGamer.dll
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\bin\Debug\net8.0\LojaGamer.pdb
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\LojaGamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\LojaGamer.AssemblyInfoInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\LojaGamer.AssemblyInfo.cs
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\LojaGamer.csproj.CoreCompileInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\LojaGamer.sourcelink.json
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\LojaGamer.dll
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\refint\LojaGamer.dll
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\LojaGamer.pdb
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\LojaGamer.genruntimeconfig.cache
+C:\Users\46561309820\Desktop\Semestre_4\LojaGamer\obj\Debug\net8.0\ref\LojaGamer.dll

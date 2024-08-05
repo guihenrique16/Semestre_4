@@ -1,0 +1,15 @@
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
+C:\Users\46561309820\Desktop\Semestre_4\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll

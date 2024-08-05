@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\LojaGamer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6FC724-8839-49D3-9F5A-478449343692}|..\\testes\\LojaGamerTeste\\LojaGamerTeste.csproj|c:\\users\\46561309820\\desktop\\semestre_4\\testes\\lojagamerteste\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B100-E673-4A99-8108-DD6382187F01}|LojaGamer.csproj|c:\\users\\46561309820\\desktop\\semestre_4\\lojagamer\\jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B100-E673-4A99-8108-DD6382187F01}|LojaGamer.csproj|solutionrelative:jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\testes\\LojaGamerTeste\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\testes\\LojaGamerTeste\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\testes\\LojaGamerTeste\\UnitTest1.cs",
+              "RelativeToolTip": "..\\testes\\LojaGamerTeste\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:36:39.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jogos.cs",
+              "DocumentMoniker": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\LojaGamer\\Jogos.cs",
+              "RelativeDocumentMoniker": "Jogos.cs",
+              "ToolTip": "C:\\Users\\46561309820\\Desktop\\Semestre_4\\LojaGamer\\Jogos.cs",
+              "RelativeToolTip": "Jogos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:11:56.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

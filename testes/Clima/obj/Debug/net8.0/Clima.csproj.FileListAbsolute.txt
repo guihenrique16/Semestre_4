@@ -1,0 +1,15 @@
+C:\Users\46561309820\Desktop\Semestre_4\Clima\bin\Debug\net8.0\Clima.exe
+C:\Users\46561309820\Desktop\Semestre_4\Clima\bin\Debug\net8.0\Clima.deps.json
+C:\Users\46561309820\Desktop\Semestre_4\Clima\bin\Debug\net8.0\Clima.runtimeconfig.json
+C:\Users\46561309820\Desktop\Semestre_4\Clima\bin\Debug\net8.0\Clima.dll
+C:\Users\46561309820\Desktop\Semestre_4\Clima\bin\Debug\net8.0\Clima.pdb
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\Clima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\Clima.AssemblyInfoInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\Clima.AssemblyInfo.cs
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\Clima.csproj.CoreCompileInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\Clima.sourcelink.json
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\Clima.dll
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\refint\Clima.dll
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\Clima.pdb
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\Clima.genruntimeconfig.cache
+C:\Users\46561309820\Desktop\Semestre_4\Clima\obj\Debug\net8.0\ref\Clima.dll

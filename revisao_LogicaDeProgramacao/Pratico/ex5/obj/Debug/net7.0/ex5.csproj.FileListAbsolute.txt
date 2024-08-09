@@ -1,0 +1,14 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\bin\Debug\net7.0\ex5.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\bin\Debug\net7.0\ex5.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\bin\Debug\net7.0\ex5.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\bin\Debug\net7.0\ex5.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\bin\Debug\net7.0\ex5.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\ex5.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\ex5.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\ex5.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\ex5.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\refint\ex5.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\ex5.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\ex5.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Semestre_4\revisao_LogicaDeProgramacao\Pratico\ex5\obj\Debug\net7.0\ref\ex5.dll

@@ -1,0 +1,15 @@
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\bin\Debug\net8.0\ex2_While.exe
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\bin\Debug\net8.0\ex2_While.deps.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\bin\Debug\net8.0\ex2_While.runtimeconfig.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\bin\Debug\net8.0\ex2_While.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\bin\Debug\net8.0\ex2_While.pdb
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ex2_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ex2_While.AssemblyInfoInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ex2_While.AssemblyInfo.cs
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ex2_While.csproj.CoreCompileInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ex2_While.sourcelink.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ex2_While.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\refint\ex2_While.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ex2_While.pdb
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ex2_While.genruntimeconfig.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex2_While\obj\Debug\net8.0\ref\ex2_While.dll

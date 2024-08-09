@@ -1,0 +1,15 @@
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ex2.AssemblyInfoInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ex2.AssemblyInfo.cs
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ex2.sourcelink.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\bin\Debug\net8.0\ex2.exe
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\bin\Debug\net8.0\ex2.deps.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\bin\Debug\net8.0\ex2.runtimeconfig.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\bin\Debug\net8.0\ex2.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\bin\Debug\net8.0\ex2.pdb
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ex2.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\refint\ex2.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ex2.pdb
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ex2.genruntimeconfig.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\ex2\obj\Debug\net8.0\ref\ex2.dll

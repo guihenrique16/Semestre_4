@@ -1,0 +1,15 @@
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\bin\Debug\net8.0\ex3_DoWhile.exe
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\bin\Debug\net8.0\ex3_DoWhile.deps.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\bin\Debug\net8.0\ex3_DoWhile.runtimeconfig.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\bin\Debug\net8.0\ex3_DoWhile.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\bin\Debug\net8.0\ex3_DoWhile.pdb
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ex3_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ex3_DoWhile.AssemblyInfoInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ex3_DoWhile.AssemblyInfo.cs
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ex3_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ex3_DoWhile.sourcelink.json
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ex3_DoWhile.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\refint\ex3_DoWhile.dll
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ex3_DoWhile.pdb
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ex3_DoWhile.genruntimeconfig.cache
+C:\Users\46561309820\Desktop\Semestre_4\revisao_LogicaDeProgramacao\EstruturaDeRepeticao\ex3_DoWhile\obj\Debug\net8.0\ref\ex3_DoWhile.dll

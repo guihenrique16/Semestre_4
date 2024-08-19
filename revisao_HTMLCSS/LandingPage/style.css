@@ -89,7 +89,7 @@
 .search-content{
     width: 75%;
     height: 80px;
-    border: 1px solid black;
+    box-shadow: 0px 0px 6px 0px black;
     border-radius: 8px;
     display: flex;
     justify-content: space-around;
@@ -103,12 +103,14 @@
 
 }
 
+
 .box-search{
     height: 55px;
     width: 212px;
     display: flex;
     align-items: center;
-    border-right: 2px solid black;
+    border-right: 2px dashed black;
+
 
 }
 
@@ -122,4 +124,5 @@
     border-radius: 8px;
     background-color: #009C3B;
     color: white;
+    border: none;
 }

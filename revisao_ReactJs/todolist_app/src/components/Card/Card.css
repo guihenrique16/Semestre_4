@@ -1,0 +1,63 @@
+.card {
+    width: 80%;
+    flex-direction: row;
+    display: flex;
+    background-color: white;
+    border-radius: 8px;
+    padding: 5px 17px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.check {
+    width: 27px;
+    height: 27px;
+    align-items: center;
+    display: flex;
+    background-color: #BDA4FF;
+    border: 1px solid #8758FF;
+    border-radius: 4px;
+    justify-content: center;
+}
+
+.part-left {
+    gap: 15px;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+
+.text-card {
+    font-size: 15px;
+    font-weight: 600;
+    color: #25282C;
+}
+
+.buttons {
+    border: 2px solid #1E123B;
+    border-radius: 4px;
+    background-color: transparent;
+    width: 27px;
+    height: 27px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.card-true {
+    background-color: #6C45CE;
+    color: white;
+}
+
+.check-true {
+    background-color: #1E123B;
+}
+
+.buttons-true {
+    background-color: transparent;
+    border-color: white;
+}
+
+.text-card-true {
+    color: white;
+}

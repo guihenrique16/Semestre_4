@@ -22,8 +22,8 @@ body {
 
 .List-content{
   background-color: #1E123B;
-  width: 984px;
-  height: 599px;
+  width: 745px;
+  height: 495px;
 
   display: flex;
   justify-content: center;
@@ -76,97 +76,6 @@ body {
 
   border: 2px solid white;
   border-radius: 8px;
-}
-
-.modal {
-  display: flex;
-  flex-direction: column;
-
-  align-items: center;
-  justify-items: center;
-
-  width: 629px;
-  height: 366px;
-
-  background-color: #1E123B;
-  border-radius: 20px;
-  padding: 20px;
-
-  gap: 45PX;
-  box-shadow: 10px black;
-  margin-bottom: 70px;
-}
-
-.modal-overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: rgba(0, 0, 0, 0.4);
-  backdrop-filter: blur(10px);
-}
-
-
-.title-modal{
-  color: white;
-  font-size: 32px;
-}
-
-.input-modal{
-  width: 577px;
-  height: 177px;
-
-  background-color: transparent;
-  color: white;
-
-  border: 1px solid white;
-  border-radius: 10px;
-}
-
-.button-modal{
-  width: 322px;
-  height: 64px;
-  color: white;
-
-  background-color: #6C45CE;
-  border: 2px solid white;
-  border-radius: 10px;
-}
-
-.close-modal{
-  width: 45px;
-  height: 35px;
-  background-color: #6C45CE;
-  color: white;
-  border: 2px solid white;
-  border-radius: 10px;
-}
-
-.box-close{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
- 
-  width: 100%;
-  padding-left: 270px;
-  padding-right: 25px;
-
-  /* border: 1px solid whitesmoke; */
-}
-.h1-modal{
-  color: white;
-
-}
-.fechar{
-  color: white;
-  text-decoration: underline;
-  background-color: transparent;
-  border: transparent;
 }
 
 

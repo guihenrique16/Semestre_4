@@ -1,0 +1,115 @@
+@font-face {
+  font-family: RobotoRegular;
+  src: url(./Fonts/Roboto/Roboto-Regular.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #a64edd;
+}
+
+.task-container {
+  background-color: #1c1032;
+  padding: 20px;
+  border-radius: 10px;
+  width: 745px;
+  height: 495px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.date-text {
+  color: white;
+  margin-bottom: 20px;
+  font-family: OpenSans;
+}
+
+.date-text span {
+  color: #8b5cf6;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 50%;
+}
+
+.search-input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: transparent;
+  color: #f0f0f0;
+}
+
+.search-input::placeholder {
+  color: #fcfcfc;
+  font-family: RobotoRegular;
+}
+
+.task-list {
+  width: 90%;
+}
+
+.task-item {
+  background-color: #f0f0f0;
+  color: #1c1032;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.task-item.completed {
+  background-color: #8b5cf6;
+  color: white;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+.check-button{
+  width: 20px;
+  height: 20px;
+  background-color: plum;
+}
+
+.task-button {
+  background-color: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.icon-button{
+  width: 23px;
+  height: 23px;
+  color: white;
+}
+
+.new-task-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #8b5cf6;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
